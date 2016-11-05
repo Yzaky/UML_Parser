@@ -25,5 +25,3 @@ The calculated matrics are :
 8) CLD(c) : Length of the longest path from the class c to another leaf class in the inheritance graph.
 9) NOC(c) : Number of direct subclasses of c.
 10)NOD(c) : Number of direct/indiret subclasses of c.
-
-
